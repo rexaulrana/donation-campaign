@@ -1,0 +1,147 @@
+[
+  {
+    "id": "01",
+    "Picture": "https://i.ibb.co/8Yy68fp/Clothing.png",
+    "Title": "Used Clothing Drive",
+    "Category": "Clothing",
+    "Category_BG_Color": "#d946ef",
+    "Card_BG_Color": "#e879f9",
+    "Text_Color": "#a21caf",
+    "Button_BG_Color": "#d946ef",
+    "Description": "Experience timeless elegance with this luxury watch. It's crafted with precision and style to complement your attire.",
+    "Price": "$249.99"
+  },
+  {
+    "id": "02",
+    "Picture": "https://i.ibb.co/m8wFZWZ/Education.png",
+    "Title": "Good education",
+    "Category": "Education",
+    "Category_BG_Color": "#f97316",
+    "Card_BG_Color": "#fdba74",
+    "Text_Color": "#c2410c",
+    "Button_BG_Color": "#f97316",
+    "Description": "Stay connected and productive with the latest smartphone. It features advanced technology and a sleek design.",
+    "Price": "$699.99"
+  },
+  {
+    "id": "03",
+    "Picture": "https://i.ibb.co/mbrK3X0/Food.png",
+    "Title": "Better Food for Everyone",
+    "Category": "Food",
+    "Category_BG_Color": "#a3e635",
+    "Card_BG_Color": "#bef264",
+    "Text_Color": "#65a30d",
+    "Button_BG_Color": "#a3e635",
+    "Description": "Nurture your skin with our organic skincare set. It's a blend of natural ingredients to enhance your beauty regimen.",
+    "Price": "$49.99"
+  },
+  {
+    "id": "04",
+    "Picture": "https://i.ibb.co/FXp92DN/Health.png",
+    "Title": "Clean water for children",
+    "Category": "Health",
+    "Category_BG_Color": "#fbbf24",
+    "Card_BG_Color": "#fcd34d",
+    "Text_Color": "#b45309",
+    "Button_BG_Color": "#a78bfa",
+    "Description": "Indulge in the finest gourmet chocolates from around the world. This assortment is perfect for chocolate lovers.",
+    "Price": "$29.99"
+  },
+  {
+    "id": "05",
+    "Picture": "https://i.ibb.co/8Yy68fp/Clothing.png",
+    "Title": "Used Clothing Drive",
+    "Category": "Clothing",
+    "Category_BG_Color": "#d946ef",
+    "Card_BG_Color": "#e879f9",
+    "Text_Color": "#a21caf",
+    "Button_BG_Color": "#d946ef",
+    "Description": "Experience timeless elegance with this luxury watch. It's crafted with precision and style to complement your attire.",
+    "Price": "$249.99"
+  },
+
+  {
+    "id": "06",
+    "Picture": "https://i.ibb.co/m8wFZWZ/Education.png",
+    "Title": "Good education",
+    "Category": "Education",
+    "Category_BG_Color": "#f97316",
+    "Card_BG_Color": "#fdba74",
+    "Text_Color": "#c2410c",
+    "Button_BG_Color": "#f97316",
+    "Description": "Stay connected and productive with the latest smartphone. It features advanced technology and a sleek design.",
+    "Price": "$699.99"
+  },
+  {
+    "id": "07",
+    "Picture": "https://i.ibb.co/mbrK3X0/Food.png",
+    "Title": "Better Food for Everyone",
+    "Category": "Food",
+    "Category_BG_Color": "#a3e635",
+    "Card_BG_Color": "#bef264",
+    "Text_Color": "#65a30d",
+    "Button_BG_Color": "#a3e635",
+    "Description": "Nurture your skin with our organic skincare set. It's a blend of natural ingredients to enhance your beauty regimen.",
+    "Price": "$49.99"
+  },
+  {
+    "id": "08",
+    "Picture": "https://i.ibb.co/FXp92DN/Health.png",
+    "Title": "Clean water for children",
+    "Category": "Health",
+    "Category_BG_Color": "#fbbf24",
+    "Card_BG_Color": "#fcd34d",
+    "Text_Color": "#b45309",
+    "Button_BG_Color": "#a78bfa",
+    "Description": "Indulge in the finest gourmet chocolates from around the world. This assortment is perfect for chocolate lovers.",
+    "Price": "$29.99"
+  },
+  {
+    "id": "09",
+    "Picture": "https://i.ibb.co/8Yy68fp/Clothing.png",
+    "Title": "Used Clothing Drive",
+    "Category": "Clothing",
+    "Category_BG_Color": "#d946ef",
+    "Card_BG_Color": "#e879f9",
+    "Text_Color": "#a21caf",
+    "Button_BG_Color": "#d946ef",
+    "Description": "Experience timeless elegance with this luxury watch. It's crafted with precision and style to complement your attire.",
+    "Price": "$249.99"
+  },
+  {
+    "id": "10",
+    "Picture": "https://i.ibb.co/m8wFZWZ/Education.png",
+    "Title": "Good education",
+    "Category": "Education",
+    "Category_BG_Color": "#f97316",
+    "Card_BG_Color": "#fdba74",
+    "Text_Color": "#c2410c",
+    "Button_BG_Color": "#f97316",
+    "Description": "Stay connected and productive with the latest smartphone. It features advanced technology and a sleek design.",
+    "Price": "$699.99"
+  },
+  {
+    "id": "11",
+    "Picture": "https://i.ibb.co/mbrK3X0/Food.png",
+    "Title": "Better Food for Everyone",
+    "Category": "Food",
+    "Category_BG_Color": "#a3e635",
+    "Card_BG_Color": "#bef264",
+    "Text_Color": "#65a30d",
+    "Button_BG_Color": "#a3e635",
+    "Description": "Nurture your skin with our organic skincare set. It's a blend of natural ingredients to enhance your beauty regimen.",
+    "Price": "$49.99"
+  },
+  {
+    "id": "12",
+    "Picture": "https://i.ibb.co/FXp92DN/Health.png",
+    "Title": "Clean water for children",
+    "Category": "Health",
+    "Category_BG_Color": "#fbbf24",
+    "Card_BG_Color": "#fcd34d",
+    "Text_Color": "#b45309",
+    "Button_BG_Color": "#a78bfa",
+    "Description": "Indulge in the finest gourmet chocolates from around the world. This assortment is perfect for chocolate lovers.",
+    "Price": "$29.99"
+  }
+]
